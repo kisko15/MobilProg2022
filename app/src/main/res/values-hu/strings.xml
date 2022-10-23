@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desserts Shop</string>
+    <string name="intro_textet">Desszertek</string>
+    <string name="add_shopping">Korsárba</string>
+    <string name="shopping_fab">Vásárlás leírása</string>
+    <string name="add_fab">Hozzáad</string>
+    <string name="add_shopping_fab">Vásárlás</string>
+    <string name="order_label_text">Sütemények:</string>
+    <string name="name_label_text">Név</string>
+    <string name="enter_name_hint">Add meg a neved</string>
+    <string name="address_label_text">Cím</string>
+    <string name="enter_address_hint">Add meg a címed</string>
+    <string name="phone_label_text">Telefon</string>
+    <string name="enter_phone_hint">Add meg a telefonszámod</string>
+    <string name="note_label_text">Megjegyzés</string>
+    <string name="enter_note_hint">Megjegyzés</string>
+    <string name="choose_delivery_method">Válassz szállítási lehetóséget:</string>
+    <string name="same_day_messenger_service">Ezen a napon</string>
+    <string name="next_day_ground_delivery">Következő napon</string>
+    <string name="pick_up">Személyes átvétel</string>
+    <string name="cake_image_desc">Sütemény kép</string>
+    <string name="cake_text">Sütemény szöveg</string>
+    <string name="textview">TextView</string>
+    <string name="title_text">Cím</string>
+    <string name="images_description_text">Kép leírás</string>
+    <string name="desc_text">desc</string>
+    <string name="img_save_btn" />
+    <string name="save_data">Adat mentés</string>
+    <string name="save">Mentés</string>
+    <string name="button_open">Megnyitás</string>
+    <string name="en">EN</string>
+    <string name="hu">HU</string>
+    <string name="take_picture">Kép készítése</string>
+    <string name="add_camera_fab_desc">Kép készítése</string>
+    <string name="open_camera">Kamera megnyitása</string>
+    <string name="purchase_details">Korábbi rendelések</string>
+    <string name="purchase_details_text">Korábbi rendelések</string>
+    <string name="purchase_details_desc">Purchase Deatails</string>
+    <string-array name="labels_array">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobile</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="cakes">
+        <item>Fánk</item>
+        <item>Jégkrém</item>
+        <item>FroYo</item>
+    </string-array>
+    <string-array name="cakes_description">
+        <item>A fánkokat üvegezzük és megszórjuk cukorkával.</item>
+        <item>A fagylaltos szendvicsek csokis ostyával és vaníliás töltelékkel rendelkeznek.</item>
+        <item>A FroYo prémium minőségű önkiszolgáló fagyasztott joghurt.</item>
+    </string-array>
+</resources>

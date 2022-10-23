@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Desserts Shop</string>
+    <string name="intro_textet">Desserts</string>
+    <string name="add_shopping">Add Shopping</string>
+    <string name="shopping_fab">Shopping description</string>
+    <string name="add_fab">Add</string>
+    <string name="add_shopping_fab">Shopping</string>
+    <string name="order_label_text">Cakes:</string>
+    <string name="name_label_text">Name</string>
+    <string name="enter_name_hint">Enter your name</string>
+    <string name="address_label_text">Address</string>
+    <string name="enter_address_hint">Enter address</string>
+    <string name="phone_label_text">Phone</string>
+    <string name="enter_phone_hint">Enter phone</string>
+    <string name="note_label_text">Note</string>
+    <string name="enter_note_hint">Enter note</string>
+    <string name="choose_delivery_method">Choose a delivery method:</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+    <string name="cake_image_desc">Cake Image</string>
+    <string name="cake_text">Cake Text</string>
+    <string name="textview">TextView</string>
+    <string name="title_text">Title</string>
+    <string name="images_description_text">Images Description</string>
+    <string name="desc_text">desc</string>
+    <string name="img_save_btn" translatable="false" />
+    <string name="save_data">Save Data</string>
+    <string name="save">Save</string>
+    <string name="button_open">Open</string>
+    <string name="en">EN</string>
+    <string name="hu">HU</string>
+    <string name="take_picture">Take picture</string>
+    <string name="add_camera_fab_desc">Take Picture</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="purchase_details">Purchase Details</string>
+    <string name="purchase_details_text">Purchase Details</string>
+    <string name="purchase_details_desc">Purchase Deatails</string>
+    <string name="enter_your_name_text">Enter your name</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="note">Note</string>
+    <string name="submit_btn">Submit</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="cakes">
+        <item>Donut</item>
+        <item>Ice Cream</item>
+        <item>Froyo</item>
+    </string-array>
+    <string-array name="cakes_description">
+        <item>Donuts are glazed and sprinkled with candy.</item>
+        <item>Ice cream sandwiches have chocolate wafers and vanilla filling.</item>
+        <item>FroYo is premium self-serve frozen yogurt.</item>
+    </string-array>
+</resources>
