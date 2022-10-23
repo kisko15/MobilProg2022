@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Nincs Elek",
+    "address": "3472 Bélapátfalva Ez Nincs út 20",
+    "phoneNumber": "+363012345678",
+    "note": "Megjegyeztem"
+  },
+  {
+    "id": 2,
+    "name": "Lesz Béla",
+    "address": "4200 Jászapáti Van Még út 10",
+    "phoneNumber": "+36709876543",
+    "note": "Ez is szöveg"
+  },
+  {
+    "id": 3,
+    "name": "Van Géza",
+    "address": "5677 Épülgetőfalu Épül Már út 12",
+    "phoneNumber": "+36206768978",
+    "note": "Hmmmm"
+  },
+  {
+    "id": 4,
+    "name": "Volt Kálmán",
+    "address": "6666 Ördögikör Ördög út 66",
+    "phoneNumber": "+36306666666",
+    "note": "De jó lenne ha..."
+  },
+]
