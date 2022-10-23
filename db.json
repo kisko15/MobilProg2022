@@ -1,5 +1,6 @@
 {
-  {
+  "purchase": [
+    {
     "id": 1,
     "name": "Nincs Elek",
     "address": "3472 Bélapátfalva Ez Nincs út 20",
@@ -27,4 +28,5 @@
     "phoneNumber": "+36306666666",
     "note": "De jó lenne ha..."
   }
+  ]
 }
